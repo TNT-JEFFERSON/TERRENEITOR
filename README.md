@@ -11,9 +11,10 @@ The name of our team is TNT, we chose this name because we will _explode_ the co
 * Obtain expertise and mastery in the topic of robotics, engineering and self-driven robots.
 * Learning how to cooperate and work as a team to solve problems with ingenious, imaginative, and creative solutions.
 * Acquire knowledge regarding new and old technologies, information about eletronics, hardware, software, and more.
+* Gain experience for opportunities or competitions that we might face in the future.
 * Win the competition and enjoy the process while doing so.
 
-TNT is form by three members (all 15 y.o.)
+TNT is form by three members (all 15 y.o.):
 
   - Raffaella Salama Arias
   - Emiliana Raquel Guerrero Fermín
@@ -28,7 +29,14 @@ TNT is form by three members (all 15 y.o.)
 - `Build`
 - `Strategy`
 
-## Our journey and progess
+## Our journey, progress and prototypes
+
+In the beginning of our journey, we had plenty of various and diverse ideas on how to build our robot but eventually it all worked out. When we first started, we did messy sketches and tried a lot of ideas. Here are some of our first sketches and ideas for Terreneitor:
+
+(foto de sketch)
+(foto de engranaje)
+
+
 
 <    img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/assets/173217818/683cf6a7-94ff-4120-84e7-d7991a159471" width="640">
 
