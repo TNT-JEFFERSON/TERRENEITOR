@@ -21,7 +21,7 @@ The name of our team is TNT, this is because we will _explode_ the comptetition,
 
 ## Our journey and progess
 
-<img src="![c92a39d9-e67e-41b5-b359-82dcf79ba660-removebg-preview](https://github.com/TNT-JEFFERSON/TERRENEITOR/assets/173217818/683cf6a7-94ff-4120-84e7-d7991a159471)">
+<img src="[c92a39d9-e67e-41b5-b359-82dcf79ba660-removebg-preview](https://github.com/TNT-JEFFERSON/TERRENEITOR/assets/173217818/683cf6a7-94ff-4120-84e7-d7991a159471)">
 
 
 
