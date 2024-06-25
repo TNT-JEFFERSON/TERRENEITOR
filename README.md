@@ -10,6 +10,8 @@ Our name is TNT because we will _explode_ the comptetition, by this meaning we h
 - Emiliana Raquel Guerrero Fermín
 - Nicola Pasquale Simone Perdomo
 
+*
+*
 
 
 
