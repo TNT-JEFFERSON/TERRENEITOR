@@ -16,6 +16,11 @@ In this directory you will find links to:
 
 - https://youtube.com/shorts/HGfQiTwByXs?si=bKAq2ve8cOI9ZJAf
 
+## Second prototype on the track 
+- Here jskaksksks
+
+- https://youtube.com/shorts/VP0IJyykLAc?si=gImFBKUhP4l3haT9
+
 ## Final robot's direction: 
 - Here we demostrate the ability to turn from one side to another (and the mechanism to do so) of our robot:
 
