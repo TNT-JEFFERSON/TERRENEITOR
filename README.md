@@ -6,7 +6,7 @@ This repository provides information and knowledge regarding the current progres
 
 ## TNT & Terreneitor - WRO 2024 Future Engineers
 
-The name of our team is TNT, we chose this name because we will _explode_ the comptetition with our hard work and dedication! On the other hand, Terreneitor is the name of our autonomous robot. We are a group of Venezuelan high schoolers who yearn to learn and be masters in robotics. TNT also have plenty of objectives like:
+The name of our team is TNT, we chose this name because we will _explode_ the comptetition with our hard work and dedication! On the other hand, Terreneitor is the name of our autonomous robot, build by using lego and arduino together. We are a group of Venezuelan high schoolers who yearn to learn and be masters in robotics. TNT also have plenty of objectives like:
 
 * Obtain expertise and mastery in robotics, engineering and self-driven robots.
 * Learning how to cooperate and work as a team to solve problems with ingenious, imaginative, and creative solutions.
