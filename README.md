@@ -30,6 +30,15 @@ TNT is form by three members (all 15 y.o.):
 - `Build`: contains all the lego pieces, arduino components, and materials used in the final robot.
 - `Strategy`: contains the strategy our robot, Terreneitor, will use to complete the WRO 2024 challenges successfully.
 
+## Materials and components
+
+What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _MINDSTORMS education EV3_ lego set, while also using electrical components, and arduino components.
+
+|-------------------------||wewewewe|
+|The lego pieces used are:||skdokssl|
+|-------------------------||sodpoeww|
+
+
 ## Our journey, progress and prototypes
 
 In the beginning of our journey, we had plenty of various and diverse ideas on how to build our robot but eventually it all worked out. When we first started, we did messy sketches and tried a lot of ideas. Here are some of our first sketches and ideas for Terreneitor:
