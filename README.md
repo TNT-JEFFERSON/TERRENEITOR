@@ -71,7 +71,7 @@ Eventually, with theses sketches in mind, we started working on the physical rob
 
 But, not everything went wrong with our first prototype because we also did a circuit for the servomotor and for the wheels, and we had a base (constructed by us with lego). All of this things helped us, along with our previous mistakes, to improve and create our second prototype.
 
-In our second prototype, since we learned from our failures and errors from the past prototype, didn't had any enormous problem, however, we realized that the two dc motors we had weren't working simultaneously, which violated the rules of the WRO 2024 competition and also that, eventhough the mesurements of the robot were good according to the rules, it was, for us, to big in width, which lead to problems like being too heavy so it went super slow (which you can see in the video  
+In our second prototype, since we learned from our failures and errors from the past prototype, didn't had any enormous problem, however, we realized that the two dc motors we had weren't working simultaneously, which violated the rules of the WRO 2024 competition and also that, eventhough the mesurements of the robot were good according to the rules, it was, for us, to big in width, which lead to problems like being too heavy so it went super slow (which you can see in the video "Second prototype on the track"
 
 
 
