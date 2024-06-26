@@ -24,7 +24,7 @@ TNT is form by three members (all 15 y.o.):
 
 - `Vehicle photos`
 - `Code`
-- `Video`
+- `Videos`
 - `Models`
 - `Build`
 - `Strategy`
