@@ -34,9 +34,9 @@ TNT is form by three members (all 15 y.o.):
 
 What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _MINDSTORMS education EV3_ lego set, while also using electrical components, and arduino components.
 
-|-------------------------||<ul><li>wewewewe</li><li>|
-|The lego pieces used are:||<ul><li>skdokssl</li><li>|
-|-------------------------||<ul><li>sodpoeww</li><li>|
+|-------------------------||wewewewe</|
+|The lego pieces used are:||skdokssl</|
+|_________________________||sodpoeww</|
 
 
 ## Our journey, progress and prototypes
