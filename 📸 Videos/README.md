@@ -12,7 +12,7 @@ In this directory you will find links to:
 - https://youtu.be/AXf8ZZWNw28?si=PzxdN1z0rt_WSu8q
 
 ## First prototype wheels mechanism:
-- Here we demostrate the mechanism of the back wheels of our first prototype.
+- Here we demostrate the mechanism of the back wheels of our first prototype and the incredibly fast velocity and speed it had.
 
 - https://youtube.com/shorts/HGfQiTwByXs?si=bKAq2ve8cOI9ZJAf
 
@@ -20,3 +20,5 @@ In this directory you will find links to:
 - Here we demostrate the ability to turn from one side to another (and the mechanism to do so) of our robot:
 
 - https://youtu.be/LIwiXsxAzfs?si=ffl3m8pvXG6mpt3J
+
+## 
