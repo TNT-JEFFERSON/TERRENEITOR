@@ -17,7 +17,7 @@ The name of our team is TNT, we chose this name because we will _explode_ the co
 TNT is form by three members (all 15 y.o.):
 
   - Raffaella Salama Arias
-  - Emiliana Raquel Guerrero Fermín
+  - Emiliana Raquel Guerrero Fermíns
   - Nicola Pasquale Simone Perdomo
 
 ## Content
@@ -36,7 +36,11 @@ In the beginning of our journey, we had plenty of various and diverse ideas on h
 
 <img src="🏎️ Prototypes and sketches/First sketches 1.jpeg" width="500"><img src="🏎️ Prototypes and sketches/First sketches 2.jpeg" width="300">
 
-Eventually, with theses sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "
+Eventually, with theses sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "First prototype wheels mechanism" (you can find in the "videos" folder) you might think, like us, that it would be super fast on the ground, however when we finally were ready to put to this test... it failed. The wheels mechanism of this prototype did not work on the ground. We tried to change many things and pieces in this prototype to see if it would help, but all our work was in vain, the mechanism still did not work on the floor. And also the mechanism for the direction of the robot did not work out too, although that was a minor problem compare to the mechanism problem.
+
+But, not everything went wrong with our first prototype because we also did a circuit for the servomotor and for the wheels, and we had a base (constructed by us with lego). All of this things helped us, along with our previous mistakes, to improve and create our second prototype.
+
+In our second prototype, since we learned from our failures and errors from the past prototype, didn't had any enormous problem, however, we realized that the two dc motors we had weren't working simultaneously, which violated the rules of the WRO 2024 competition. 
 
 
 
