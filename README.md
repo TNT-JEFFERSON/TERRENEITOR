@@ -22,16 +22,17 @@ TNT is form by three members (all 15 y.o.):
 
 ## Content
 
-- `Vehicle photos`
-- `Code`
-- `Videos`
-- `Models`
-- `Build`
-- `Strategy`
+- `Vehicle photos`: contains photos of our  previous ideas, prototypes and the final robot.
+- `Code`: contains the code of the prototypes and the final robot.
+- `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
+- `Models`: contains all the 3D printed models we used throught our journey.
+- `Build`: contains all the lego pieces, arduino components, and materials used in the fina robot.
+- `Strategy`: contains the strategy our robot, Terreneitor, will use to complete the WRO 2024 challenges.
 
 ## Our journey, progress and prototypes
 
 In the beginning of our journey, we had plenty of various and diverse ideas on how to build our robot but eventually it all worked out. When we first started, we did messy sketches and tried a lot of ideas. Here are some of our first sketches and ideas for Terreneitor:
+
 
 (foto de sketch)
 (foto de engranaje)
