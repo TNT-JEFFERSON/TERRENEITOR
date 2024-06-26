@@ -22,7 +22,7 @@ TNT is form by three members (all 15 y.o.):
 
 ## Content
 
-- `Vehicle photos`: contains photos of the final robot from different angles and views, and also the steps of how we build it.
+- `Vehicle photos`: contains photos of the final robot from different views and angles, and also the steps of how we build it.
 - `Prototypes and sketches`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
 - `Code`: contains the code of the prototypes and the final robot.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
