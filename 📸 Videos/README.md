@@ -21,4 +21,8 @@ In this directory you will find links to:
 
 - https://youtu.be/LIwiXsxAzfs?si=ffl3m8pvXG6mpt3J
 
-## 
+## Final robot on the ground:
+- Here we demostrate Terreneitor's speed and fast velocity on the ground.
+
+- https://youtu.be/L0IB8tpKi-c?feature=shared
+
