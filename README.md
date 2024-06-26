@@ -41,10 +41,10 @@ What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _
 |33x Black 2780|1x Gray Dc Motor|
 |1x Red 6538c|1x Pixycam 2.1|
 |1x Gray 60483|2x Ultrasound sensors|
-|2x White x346|
-|2x Red 44809|
-|2x Black 32270|
-|1x Blue 32523|
+|2x White x346| Arduino cables |
+|2x Red 44809|2x Bateries|
+|2x Black 32270|1x Arduino Uno Board|
+|1x Blue 32523|1x Protoboard|
 |1x Gray 32523|
 |4x Gray 32073|
 |1x Black 33299|
