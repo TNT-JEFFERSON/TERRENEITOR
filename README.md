@@ -36,6 +36,8 @@ In the beginning of our journey, we had plenty of various and diverse ideas on h
 
 <img src="🏎️ Prototypes and sketches/First sketches 1.jpeg" width="500"><img src="🏎️ Prototypes and sketches/First sketches 2.jpeg" width="300">
 
+Eventually, with theses sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "
+
 
 
 
