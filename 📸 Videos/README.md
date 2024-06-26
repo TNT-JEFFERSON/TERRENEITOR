@@ -17,7 +17,7 @@ In this directory you will find links to:
 - https://youtube.com/shorts/HGfQiTwByXs?si=bKAq2ve8cOI9ZJAf
 
 ## Second prototype on the track 
-- Here jskaksksks
+- Here we show how our second prototype was on the track. Though it was very slow, it completed the challenge successfully.
 
 - https://youtube.com/shorts/VP0IJyykLAc?si=gImFBKUhP4l3haT9
 
