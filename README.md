@@ -34,30 +34,30 @@ TNT is form by three members (all 15 y.o.):
 
 What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _MINDSTORMS education EV3_ lego set, while also using electrical components, and arduino components.
 
-
-|6x Yellow 4265c|
-|-------------------------|
-|10x Gray 3713|
-|33x Yellow 4265c|
-|1x Yellow 4265c|
-|1x Yellow 4265c|
-|2x Yellow 4265c|
-|2x Yellow 4265c|
-|2x Yellow 4265c|
-|1x Yellow 4265c|
-|1x Yellow 4265c|
-|4x Yellow 4265c|
-|1x Yellow 4265c|
-|4x Yellow 4265c|
-|1x Yellow 4265c|
-|2x Yellow 4265c|
-|2x Yellow 4265c|
-|4x Yellow 4265c|
-|4x Yellow 4265c|
-|5x Yellow 4265c|
-|6x Yellow 4265c|
-|4x Yellow 4265c|
-|4x Yellow 4265c|
+|THE LEGO PIECES OUR ROBOT USES ARE:|THE ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|                                                  
+|-----------------------------|---------------------|
+|6x Yellow 4265c|skdjkdjkdsj|
+|10x Gray 3713|sdknjdks|
+|33x Black 2780|
+|1x Red 6538c|
+|1x Gray 60483|
+|2x White x346|
+|2x Red 44809|
+|2x Black 32270|
+|1x Blue 32523|
+|1x Gray 32523|
+|4x Gray 32073|
+|1x Black 33299|
+|4x Gray 32140|
+|1x Gray 44294|
+|2x Black 3707|
+|2x Gray 48989|
+|4x Dark gray 3648|
+|4x White 40490|
+|5x Gray 40490|
+|6x Gray 64179|
+|4x Grey 56908|
+|4x Black 41897|
 
 
 ## Our journey, progress and prototypes
