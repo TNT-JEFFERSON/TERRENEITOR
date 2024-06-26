@@ -35,8 +35,6 @@ TNT is form by three members (all 15 y.o.):
 In the beginning of our journey, we had plenty of various and diverse ideas on how to build our robot but eventually it all worked out. When we first started, we did messy sketches and tried a lot of ideas. Here are some of our first sketches and ideas for Terreneitor:
 
 
-(foto de sketch)
-(foto de engranaje)
 
 
 
