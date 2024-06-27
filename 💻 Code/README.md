@@ -23,4 +23,4 @@ The robot does this cicle 4 times,for it to finish that round, which is the firs
 
 - You can see this code being used and putted to the test in "Second prototype on the track" (in the videos folder).
 
-  <img src="code for the motors of the second prototype.ino" width="400">
+  <img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/eb09f54b942f2245a2a26fba1f1b02f2c5249c51/%F0%9F%92%BB%20Code/code%20for%20the%20motors%20of%20the%20second%20prototype.ino" width="400">
