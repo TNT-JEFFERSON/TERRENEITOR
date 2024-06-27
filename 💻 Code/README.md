@@ -4,7 +4,7 @@ In this directory you will find all the code we used for our prototypes and the 
 
 ## Software
 
-The software we used for coding and programming our robot, Terreneitor, is _Arduino IDE _ version: 2.3.2 on IOS
+The software we used for coding and programming our robot, Terreneitor, is _Arduino IDE _ version: 2.3.2 in MacOS
 
 <img src="Arduino IDE 2.3.2.png" width="40000">
 
