@@ -12,7 +12,7 @@ The name of our team is TNT, we chose this name because we will _explode_ the co
 * Learning how to cooperate and work as a team to solve problems with ingenious, imaginative, and creative solutions.
 * Acquire knowledge regarding new and old technologies, information about eletronics, hardware, software, and more.
 * Gain experience for opportunities or competitions that we might face in the future.
-* Win the competition and enjoy the process through this exciting road.
+* Win the competition and enjoy the process through this exciting road!
 
 TNT is form by three members (all 15 y.o.):
 
