@@ -63,9 +63,32 @@ In the two pictures below, you can see how we applied our inical ideas we though
 
 <img src="Second prototype (frontal view).jpeg" width="400"> <img src="Second prototype (another front view).jpeg" width="400">
 
-However, there was another problem, in the two images below you can see that for this prototype we had two dc motors, each one working for each wheel, but this violated the rules of the WRO 2024 competition so we had to changed it eventually. You can also see the cicuit and how wide and big it was, which lead to the robot being very slow (you can see this in the `videos` folder.
+However, there was another problem, in the two images below you can see that for this prototype we had two dc motors, each one working for each wheel, but this violated the rules of the WRO 2024 competition so we had to change it eventually. You can also see the cicuit and how wide and big it was, which lead to the robot being very slow (you can see this in the `videos` folder)
 
 <img src="Second prototype (back view).jpeg" width="400" height="600"> <img src="Second prototype (cenital view).jpeg" width="400">
+
+### We learned many things from this prototype:
+
+- It was still heavy
+- It was very wide
+- To obligatorily have a direction mechanism 
+- To check and follow the rules of the WRO 2024 competition
+- It was very slow
+
+After all this prototypes, we came to a conclusion: 
+
+- We needed a robot that is:
+  - light weighted
+  - thin and short
+  - have a direction mechanism and use a servomotor in it
+  - follows the rules of the WRO 2024 competition
+  - has 1 dc motor who makes both wheels move simultaneously
+  - Fast in speed
+
+So with this in mind, we built our final robot, Terreneitor, who has all of this characteristics and more.
+
+(As stated at the beginning of this directory, if you want to know more about our final robot, check the other folders like:`vehicle photos` folder, the `build` folder, etc. You can also read the README of this repository since we mainly talk about our final robot there and in the other folders except for this one).
+
 
 
 
