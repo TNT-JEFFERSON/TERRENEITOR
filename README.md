@@ -20,7 +20,7 @@ TNT is form by three members (all 15 y.o.):
   - Emiliana Raquel Guerrero Fermíns
   - Nicola Pasquale Simone Perdomo
 
-One thing that defines us, TNT, is that unlike others, we _don't_ give up easily, we are determine to be the best and improve as much as possible, always looking for success and enjoying every part of the process. You can see this characteristic about us being really strong during "our journey, process and prototypes" below and in the "prototypes and sketches" `folder`.
+One thing that defines us, TNT, is that unlike others, we _don't_ give up easily, we are determine to be the best and improve as much as possible, always looking for success and enjoying every part of the process. You can see this characteristic about us being really strong during "our journey, process and prototypes" below and in the `prototypes and sketches` folder.
 
 ## Content
 
