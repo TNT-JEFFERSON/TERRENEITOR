@@ -12,6 +12,8 @@ This model is an adapter so we can join together the dc motor and the lego stick
 <img src="Photo of the adapter.png" width="900"> 
 <img src="Photo of the adapter 2.png" width="200">
 
+(you can find the 3D model stl in this folder)
+
 ### Blue piece
 
 This model is a piece that functions to stop the dc motor from moving so it has a better performance. This model what 4 cm x 2 cm so it would in the space below the robot in the first prototype. 
@@ -19,3 +21,4 @@ This model is a piece that functions to stop the dc motor from moving so it has 
 <img src="Photo of blue piece 1.jpeg" width="900"> 
 <img src="Photo of blue piece 2.jpeg" width="400"> 
 
+(you can find the 3D model stl in this folder)
