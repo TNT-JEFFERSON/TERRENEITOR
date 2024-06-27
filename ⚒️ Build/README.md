@@ -7,7 +7,7 @@ What is Terreneitor made of? Terreneitor is made essentially of:
 - While also using electrical components and arduino components
 - And our own parts and materials like personalized 3D printed models, silicone and tape
 
-In the chart below titled "The lego pieces our robot uses are:", you will find:
+In the chart below titled "THE LEGO PIECES OUR ROBOT USES ARE:", you will find:
 1) First, the amount of that especific piece we used on the robot
 2) Second, the color of that lego piece
 3) Third, the code of that lego piece 
@@ -43,15 +43,19 @@ You can see all of the lego pieces we used, for a better comprehension, more cle
 
 <img src="Lego pieces.PNG" width="800">
 
-|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|                                                  
-|---------------------|
-|1x MicroServo 9g (SG90)|
-|1x Yellow 9V Geared Dc Motor|
-|1x Gray 5V Dc Motor|
-|1x Pixycam 2.1|
-|2x Ultrasound sensors|
-| Arduino cables |
-|2x Bateries|
-|1x Arduino Uno Board|
-|1x Protoboard|
+In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
+1) First, the amount of that especific piece we used on the robot
+2) Second, the name of that arduino or electrical piece/component
+
+|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|Photo of each:|                                                  
+|-----------------------------------------------------|--------------|
+|1x MicroServo 9g (SG90)|<img src="Lego pieces.PNG" width="800">|
+|1x Yellow 9V Geared Dc Motor|     |
+|1x Gray 5V Dc Motor|    |
+|1x Pixycam 2.1|      |
+|2x Ultrasound sensors|       |
+|A lot of Arduino cables|       |
+|2x Bateries|  |
+|1x Arduino Uno Rev3 Board|    |
+|1x Protoboard MB-102 830 pins|       |
 
