@@ -25,7 +25,7 @@ Step 2:
 Step 3:
 <img src="First prototype step 3 (front view).jpeg" width="200">
 Step 4:
-<img src="First prototype step 4 (worm's-eye view).jpeg" width="200">
+<img src="First prototype step 4 (worm’s-eye view).jpeg" width="200">
 
 
 
