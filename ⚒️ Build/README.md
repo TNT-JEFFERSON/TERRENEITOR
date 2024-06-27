@@ -69,7 +69,7 @@ Apart from lego pieces and arduino/electrical components, we also used our mater
 
 |THE MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
-|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200">|
+|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200">|
 |silicone| <img src="silicone.jpg" width="200">|
 |blue/black tape| <img src="black tape.jpg" width="200"> <img src="blue tape.png.jpg" width="200">|
 |zip ties|<img src="zip ties.jpg" width="200">|
