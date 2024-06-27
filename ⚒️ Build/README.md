@@ -59,3 +59,14 @@ In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:
 |1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
 |1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
+Apart from lego pieces and arduino/electrical components, we also used our materials, components and pieces like:
+
+- our own 3D printed models (which you can find in the `models` folder)
+- our own adhesive materials to join things or make them stronger like:
+  - silicone
+  - blue/black tape
+  - zip ties
+
+
+Eveything we just mentioned is part of our final robot, but for the previous attempts and prototypes we used the same materials, pieces, parts and components.
+
