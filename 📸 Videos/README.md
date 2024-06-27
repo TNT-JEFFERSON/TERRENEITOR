@@ -17,7 +17,7 @@ In this directory you will find links to:
 - https://youtube.com/shorts/HGfQiTwByXs?si=bKAq2ve8cOI9ZJAf
 
 ## First prototype direction mechanism:
--Here we show how the direction mechanism of our first prototype wasn't working (this problem was mentioned in "Our journey, progress and prototypes" in the README of the repository)
+- Here we show how the direction mechanism of our first prototype wasn't working (this problem was mentioned in "Our journey, progress and prototypes" in the README of the repository)
 
 - https://youtu.be/xLu6_tLh33c?si=TgCPNXHQxp1kua-9
 
