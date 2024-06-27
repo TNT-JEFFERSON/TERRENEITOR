@@ -63,7 +63,7 @@ What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _
 
 <img src="⚒️ Build/Lego pieces.PNG" width="800">
 
-- To know the complete list of all the materials used visit the `build` folder.
+### To know the complete list of all the materials used visit the `build` folder.
 
 ## Our journey, progress and prototypes
 
