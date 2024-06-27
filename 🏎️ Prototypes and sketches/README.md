@@ -1,4 +1,4 @@
-# Prototypes and sketches 
+ # Prototypes and sketches 
 
 In this directory you will find all the information regarding our previous ideas and prototypes, their avantages and disavantages and the journey that lead to this prototypes. It is important to mention that we are going to focus here on the sketches and prototypes, not on the final robot (if you want to know more about our final robot, check the other folders like:`vehicle photos` folder, the `build` folder, etc. You can also read the README of this repository since we mainly talk about our final robot there and , as mentioned before, in the other folders except for this one).
 
@@ -8,7 +8,9 @@ It is a need and an importance to talk about our sketches and prototypes because
 
 ### Sketches
 
-Before we even started building the robot, we had a clear vision for what we wanted our robot to be like. We wanted a robot with 2 or 3 ultrasonic sensors (especially 2 in the front), the pixycam in the middle of the front of the robot (between the 2 ultrasonic sensors), to have 4 wheels (2 in the front, and 2 in the back like a real car), use 1 dc motor to move both back wheels.
+Before we even started building the robot, we had a clear vision for what we wanted our robot to be like. We wanted a robot with 2 or 3 ultrasonic sensors (especially 2 in the front), the pixycam in the middle of the front of the robot (between the 2 ultrasonic sensors), to have 4 wheels (2 in the front, and 2 in the back like a real car), use 1 dc motor to move both back wheels, and have the batteries and arduino board behind the sensors (in the middle of the base)
 
 <img src="First sketches 1.jpeg" width="600"> <img src="First sketches 2.jpeg" width="300">
+
+
 
