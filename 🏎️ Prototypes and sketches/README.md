@@ -10,4 +10,5 @@ It is a need and an importance to talk about our sketches and prototypes because
 
 Before we even started building the robot, we had a clear vision for what we wanted our robot to be like. We wanted a robot with 2 or 3 ultrasonic sensors (especially 2 in the front), the pixycam in the middle of the front of the robot (between the 2 ultrasonic sensors), to have 4 wheels (2 in the front, and 2 in the back like a real car), use 1 dc motor to move both back wheels.
 
-<img src="First sketches 1.jpeg
+<img src="First sketches 1.jpeg" width="600"> <img src="First sketches 2.jpeg" width="300">
+
