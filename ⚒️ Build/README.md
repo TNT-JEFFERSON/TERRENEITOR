@@ -49,13 +49,13 @@ In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:
 
 |THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
-|1x MicroServo 9g (SG90)|<img src="MicroServo 9g (SG90).jpeg" width="400">|
-|1x Yellow 9V Geared Dc Motor| <img src="Yellow 9V dc motor.jpg" width="400">   |
-|1x Gray 5V Dc Motor| <img src="Gray 5V dc motor.jpg" width="400">   |
-|1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="400">      |
-|2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="400">       |
-|A lot of Arduino cables| <img src="Arduino cables.jpg" width="400">      |
-|2x Bateries|<img src="MicroServo 9g (SG90).jpeg" width="400">  |
-|1x Arduino Uno Rev3 Board|    |
-|1x Protoboard MB-102 830 pins|       |
+|1x MicroServo 9g (SG90)|<img src="MicroServo 9g (SG90).jpeg" width="200">|
+|1x Yellow 9V Geared Dc Motor| <img src="Yellow 9V dc motor.jpg" width="200">|
+|1x Gray 5V Dc Motor| <img src="Gray 5V dc motor.jpg" width="200">|
+|1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="200">|
+|2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="200">|
+|A lot of Arduino cables| <img src="Arduino cables.jpg" width="200">|
+|2x Bateries|<img src="Batteries.jpg" width="200">  |
+|1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
+|1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
