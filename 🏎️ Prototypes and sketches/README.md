@@ -29,12 +29,22 @@ After realizing it was too long, we shorten it as you can see in the photo below
 <img src="First prototype step 1 (cenital view).jpeg" width="200">
 
 Step 2:
+
+In step 2, we changed the direction mechanism of the robot, opt in for a gear-based mechanism. You can also see how in this mechanism to move the gear we were using a dc motor instead of a servomotor.
+
 <img src="First prototype step 2 (cenital view).jpeg" width="200">
 
 Step 3:
+
+Here, you can see the direction mechanism mentioned in step 2 more clearly, this mechanism was supposed to work like this: The big gear moved the black piece below, making it go to either side. This mechanism, did not work (as you can see in the `videos` folder) because the gear wasn't strong enough to move the black piece, and another problem with this mechanism was that since we were using a dc motor instead of a servomotor it would move only to one side.
+
 <img src="First prototype step 3 (front view).jpeg" width="200">
 
 Step 4:
+
+In step 4, you can see the wheels mechanism from below the robot, you can see the gears, dc motor, and everything that belongs to this mechanism. 
+You can also see the direction mechanism from below. And that we were using two small wheels in the front, and two bigger ones in the back.
+
 <img src="First prototype step 4 (worm’s-eye view).jpeg" width="200">
 
 
