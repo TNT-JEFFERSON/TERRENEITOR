@@ -22,3 +22,4 @@ The software we used for coding and programming our robot, Terreneitor, is _Ardu
 The robot does this cicle 4 times,for it to finish that round, which is the first challenge (the open challange). This code is a way of completing the first challenge by using time.
 
 - You can see this code being used and putted to the test in "Second prototype on the track" (in the videos folder).
+- <img src="code for the motors of the second prototype.ino" width="40000">
