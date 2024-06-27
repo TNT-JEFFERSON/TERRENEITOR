@@ -67,7 +67,7 @@ In the beginning of our journey, we had plenty of various and diverse ideas on h
 
 <img src="🏎️ Prototypes and sketches/First sketches 1.jpeg" width="500"><img src="🏎️ Prototypes and sketches/First sketches 2.jpeg" width="300">
 
-Eventually, with theses sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "First prototype wheels mechanism" (you can find in the "videos" folder) you might think, like us, that it would be super fast on the ground, however when we finally were ready to put to this test... it failed. The wheels mechanism of this prototype did not work on the ground. We tried to change many things and pieces in this prototype to see if it would help, but all our work was in vain, the mechanism still did not work on the floor. Eventually, we find out the cause... the mechanism didn't work because the dc motor that we were using, eventhogh it was fast, it didn't have enough strength and power to move the gear mechanism (the robot was also really tall and heavy causing the dc motor to be carrying this weight all the time, since it was located on the lower part of it. Let's not forget to comment that, also the mechanism for the direction of the robot did not work out too because ----------------, although that was a minor problem compare to the mechanism problem.
+Eventually, with these sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "First prototype wheels mechanism" (you can find in the "videos" folder) you might think, like us, that it would be super fast on the ground, however when we finally were ready to put to this test... it failed. The wheels mechanism of this prototype did not work on the ground. We tried to change many things and pieces in this prototype to see if it would help, but all our work was in vain, the mechanism still did not work on the floor. Eventually, we find out the cause... the mechanism didn't work because the dc motor that we were using, eventhogh it was fast, it didn't have enough strength and power to move the gear mechanism (the robot was also really tall and heavy causing the dc motor to be carrying this weight all the time, since it was located on the lower part of it. Let's not forget to comment that, also the mechanism for the direction of the robot did not work out too because ----------------, although that was a minor problem compare to the mechanism problem.
 
 But, not everything went wrong with our first prototype because we also did a circuit for the servomotor and for the wheels, and we had a base (constructed by us with lego). All of this things helped us, along with our previous mistakes, to improve and create our second prototype.
 
@@ -80,6 +80,7 @@ As you can realize by now we had plenty of problems since the beginning, let's g
 
 - The wheels mechanism did not work on the ground
 - The direction mechanism did not work
+- 
 
 ### Second prototype:
 
