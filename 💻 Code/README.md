@@ -1,4 +1,4 @@
-## Code
+# Code
 
 In this directory you will find all the code (using Arduino IDE) we used for our prototypes and the final robot.
 
