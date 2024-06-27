@@ -8,7 +8,7 @@ This model is an adapter so we can join together the dc motor and the lego stick
 
 ⇩ ( The blue and yellow parts you see next to the wheels are the adapters ) ⇩
                                                                      
-<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/1efa92038c587397bdfc46391e3aa5bf5d66d50c/%F0%9F%9A%99%20Vehicle%20photos/cenital%20view%20final%20robot.png" width="900">
+<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/1efa92038c587397bdfc46391e3aa5bf5d66d50c/%F0%9F%9A%99%20Vehicle%20photos/cenital%20view%20final%20robot.png" width="700">
 <img src="Photo of the adapter.png" width="900"> 
 <img src="Photo of the adapter 2.png" width="600">
 
