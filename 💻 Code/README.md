@@ -1,6 +1,10 @@
 # Code
 
-In this directory you will find all the code (using Arduino IDE) we used for our prototypes and the final robot.
+In this directory you will find all the code we used for our prototypes and the final robot.
+
+## Software
+
+The software we used for coding and programming our robot, Terreneitor, is _Arduino IDE_
 
 ## Code for the motors of the second prototype:
 
