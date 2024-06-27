@@ -16,6 +16,19 @@ Before we even started building the robot, we had a clear vision for what we wan
 
 After making the sketches for what we wanted our robot to look like, we started the construction by using lego pieces from the _MINDSTORM education EV3_ lego set. As mentioned before, we wanted the both of the back wheels to move by using 1 dc motor who would move them simultaneously. 
 
+Step 0.1: 
+<img src="First prototype step 0.1.jpeg" width="200">
+Step 1:
+<img src="First prototype step 1 (cenital view).jpeg" width="200">
+Step 2:
+<img src="First prototype step 2 (cenital view).jpeg" width="200">
+Step 3:
+<img src="First prototype step 3 (front view).jpeg" width="200">
+Step 4:
+<img src="First prototype step 4 (worm's-eye view).jpeg" width="200">
+
+
+
 
 
 
