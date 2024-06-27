@@ -69,7 +69,7 @@ Apart from lego pieces and arduino/electrical components, we also used our mater
 
 |THE MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
-|3D printed models|<img src="Photo of the adapter.png" width="200">|
+|3D printed models|<img src="🖨️ Models/Photo of the adapter 2.png width="200">|
 |silicone| <img src="silicone.jpg" width="200">|
 |blue/black tape| <img src="black tape.jpg" width="200"> <img src="blue tape.png.jpg" width="200">|
 |zip ties|<img src="zip ties.jpg" width="200">|
