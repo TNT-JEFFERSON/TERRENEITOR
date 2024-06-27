@@ -37,8 +37,8 @@ What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _
 |THE LEGO PIECES OUR ROBOT USES ARE:|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|                                                  
 |-----------------------------|---------------------|
 |6x Yellow 4265c|1x MicroServo 9g (SG90)|
-|10x Gray 3713|1x Yellow Dc Motors|
-|33x Black 2780|1x Gray Dc Motor|
+|10x Gray 3713|1x Yellow 9V Geared Dc Motor|
+|33x Black 2780|1x Gray 5V Dc Motor|
 |1x Red 6538c|1x Pixycam 2.1|
 |1x Gray 60483|2x Ultrasound sensors|
 |2x White x346| Arduino cables |
