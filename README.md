@@ -27,7 +27,7 @@ TNT is form by three members (all 15 y.o.):
 - `Code`: contains the code of the prototypes and the final robot.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
 - `Models`: contains all the 3D printed models we used throught our journey.
-- `Build`: contains all the lego pieces, arduino components, and materials used in the final robot.
+- `Build`: contains all the lego pieces, arduino/electrical components, and materials used in the final robot.
 
 
 ## Materials and components
