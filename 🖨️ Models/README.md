@@ -10,5 +10,12 @@ This model is an adapter so we can join together the dc motor and the lego stick
                                                                      
 <img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/1efa92038c587397bdfc46391e3aa5bf5d66d50c/%F0%9F%9A%99%20Vehicle%20photos/cenital%20view%20final%20robot.png" width="700">
 <img src="Photo of the adapter.png" width="900"> 
-<img src="Photo of the adapter 2.png" width="600">
+<img src="Photo of the adapter 2.png" width="200">
+
+### Blue piece
+
+This model is a piece that functions to stop the dc motor from moving so it has a better performance. This model what 4 cm x 2 cm so it would in the space below the robot in the first prototype. 
+
+<img src="Photo of blue piece 1.jpeg" width="900"> 
+<img src="Photo of blue piece 2.jpeg" width="400"> 
 
