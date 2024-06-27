@@ -8,9 +8,14 @@ It is a need and an importance to talk about our sketches and prototypes because
 
 ### Sketches
 
-Before we even started building the robot, we had a clear vision for what we wanted our robot to be like. We wanted a robot with 2 or 3 ultrasonic sensors (especially 2 in the front), the pixycam in the middle of the front of the robot (between the 2 ultrasonic sensors), to have 4 wheels (2 in the front, and 2 in the back like a real car), use 1 dc motor to move both back wheels, and have the batteries and arduino board behind the sensors (in the middle of the base)
+Before we even started building the robot, we had a clear vision for what we wanted our robot to be like. We wanted a robot with 2 or 3 ultrasonic sensors (especially 2 in the front), the pixycam in the middle of the front of the robot (between the 2 ultrasonic sensors), to have 4 wheels (2 in the front, and 2 in the back like a real car), use 1 dc motor to move both back wheels, and have the batteries and arduino board behind the sensors (in the middle of the base). In the sketches below you can see these ideas reflected:
 
-<img src="First sketches 1.jpeg" width="600"> <img src="First sketches 2.jpeg" width="300">
+1. <img src="First sketches 1.jpeg" width="600">    2. <img src="First sketches 2.jpeg" width="300">
+
+### First prototype
+
+After making the sketches for what we wanted our robot to look like, we started the construction by using lego pieces from the _MINDSTORM education EV3_ lego set. As mentioned before, we wanted the both of the back wheels to move by using 1 dc motor who would move them simultaneously. 
+
 
 
 
