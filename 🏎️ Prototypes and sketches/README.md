@@ -20,41 +20,50 @@ After making the sketches for what we wanted our robot to look like, we started 
 
 In the beginning, we made the base really long, as you can see in the image below, but if you watch closely, you'll see at the end of the robot, the mechanism for the wheels which is mainly made by using gears (if you want to see how this mechanism works check the `videos` folder). On the other hand, in the front of the robot you'll see the direction mechanism which we later changed.
 
-<img src="First prototype step 0.1.jpeg" width="200">
+<img src="First prototype step 0.1.jpeg" width="300">
 
 ### Step 1:
 
 After realizing it was too long, we shorten it as you can see in the photo below. You can also see the direction mechanism more clearly and see how we connected the dc motor to the wheels mechanism (when the motor was on, it moved the gray lego adapter who moved the gears and finally made the wheels move in unison, at the same time (this wheel mechanism didn't work on the ground because the dc motor didn't have enought strength and power to move the mechanism, plus the weight of all the robot was on top of it).
 
-<img src="First prototype step 1 (cenital view).jpeg" width="200">
+<img src="First prototype step 1 (cenital view).jpeg" width="300">
 
 ### Step 2:
 
 In step 2, we changed the direction mechanism of the robot, opt in for a gear-based mechanism. You can also see how in this mechanism to move the gear we were using a dc motor instead of a servomotor.
 
-<img src="First prototype step 2 (cenital view).jpeg" width="200">
+<img src="First prototype step 2 (cenital view).jpeg" width="300">
 
 ### Step 3:
 
 Here, you can see the direction mechanism mentioned in step 2 more clearly, this mechanism was supposed to work like this: The big gear moved the black piece below, making it go to either side. This mechanism, did not work (as you can see in the `videos` folder) because the gear wasn't strong enough to move the black piece, and another problem with this mechanism was that since we were using a dc motor instead of a servomotor it would move only to one side. You can also see how tall and big it has making it really heavy.
 
-<img src="First prototype step 3 (front view).jpeg" width="200">
+<img src="First prototype step 3 (front view).jpeg" width="300">
 
 ### Step 4:
 
 In step 4, you can see the wheels mechanism from below the robot, you can see the gears, dc motor, and everything that belongs to this mechanism. 
 You can also see the direction mechanism from below. And that we were using two small wheels in the front, and two bigger ones in the back.
 
-<img src="First prototype step 4 (worm’s-eye view).jpeg" width="200">
+<img src="First prototype step 4 (worm’s-eye view).jpeg" width="300">
 
-We learned many things from this prototype:
+### We learned many things from this prototype:
 
-- Heavy
-- Tall and big
+- It was heavy
+- It was tall and big
 - To not used a gear based direction mechanism
 - Use a servomotor in the direction mechanism instead of a dc motor
 - To use a simplier and light weight wheel mechanism so the dc motor can can power and make move on the ground
 
+## Second prototype
+
+After we realized all the big problems our first prototype had, we decided to start again and build another prototype.
+
+
+<img src="Second prototype (frontal view).jpeg" width="200">
+<img src="Second prototype (another front view).jpeg" width="200">
+<img src="Second prototype (back view).jpeg" width="200">
+<img src="Second prototype (cenital view).jpeg" width="200">
 
 
 
