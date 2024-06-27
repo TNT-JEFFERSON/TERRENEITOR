@@ -59,7 +59,7 @@ You can also see the direction mechanism from below. And that we were using two 
 
 After we realized all the big problems our first prototype had, we decided to start again and build another prototype.
 
-
+In the two picture below, you can see how we applied our inical ideas we thought in the sketch: putting 2 ultrasonic sensors in the front of the robot and in between the pixycam
 <img src="Second prototype (frontal view).jpeg" width="400"> <img src="Second prototype (another front view).jpeg" width="400">
 
 <img src="Second prototype (back view).jpeg" width="400" height="600"> <img src="Second prototype (cenital view).jpeg" width="400">
