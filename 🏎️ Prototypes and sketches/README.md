@@ -60,10 +60,10 @@ You can also see the direction mechanism from below. And that we were using two 
 After we realized all the big problems our first prototype had, we decided to start again and build another prototype.
 
 
-<img src="Second prototype (frontal view).jpeg" width="200">
-<img src="Second prototype (another front view).jpeg" width="200">
-<img src="Second prototype (back view).jpeg" width="200">
-<img src="Second prototype (cenital view).jpeg" width="200">
+<img src="Second prototype (frontal view).jpeg" width="400"> <img src="Second prototype (another front view).jpeg" width="400">
+
+<img src="Second prototype (back view).jpeg" width="400" height="600"> <img src="Second prototype (cenital view).jpeg" width="400">
+
 
 
 
