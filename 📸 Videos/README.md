@@ -19,7 +19,7 @@ In this directory you will find links to:
 ## First prototype direction mechanism:
 - Here we show how the direction mechanism of our first prototype wasn't working (this problem was mentioned in "Our journey, progress and prototypes" in the README of the repository)
 
-- https://youtu.be/xLu6_tLh33c?si=TgCPNXHQxp1kua-9
+- https://youtube.com/shorts/1Q_TQaBaEv4?si=9o6V4hn82UMSl9a6
 
 ## Second prototype on the track:
 - Here we show how our second prototype was on the track. Though it was very slow, it completed the challenge successfully.
