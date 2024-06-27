@@ -67,6 +67,14 @@ Apart from lego pieces and arduino/electrical components, we also used our mater
   - blue/black tape
   - zip ties
 
+|THE MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
+|-----------------------------------------------------|--------------|
+|3D printed models|<img src="Photo of the adapter.png" width="200">|
+|silicone| <img src="Yellow 9V dc motor.jpg" width="200">|
+|blue/black tape| <img src="Gray 5V dc motor.jpg" width="200">|
+|zip ties|<img src="PixyCam 2.1.jpeg" width="200">|
+
+
 
 Eveything we just mentioned is part of our final robot, but for the previous attempts and prototypes we used the same materials, pieces, parts and components.
 
