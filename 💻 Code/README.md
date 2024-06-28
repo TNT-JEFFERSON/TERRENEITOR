@@ -30,9 +30,10 @@ The robot does this cicle 4 times,for it to finish that round, which is the firs
 
 ## Code for the servomotor and ultrasonic sensors of the final robot:
 
-- This code makes the direction mechanism and the three ultrasonic sensors in our robot work together
+This code makes the direction mechanism and the three ultrasonic sensors in our robot work together
 
-  It works like this:
+It works like this:
+
 - If the robot detects that one side is more than 50cm it goes that way
 - If the robot detects that one side is less that 50 cm it goes to the opposite way
 
