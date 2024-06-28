@@ -46,4 +46,9 @@ In this directory you will find links to:
 
 - https://youtube.com/shorts/-ydbWwwqAOM?si=ZDhiF-gVkNM1LRam
 
+## Final robot on the track 
+- Here we show the final robot on the track
+
+- https://youtu.be/CYdOAYD9zVA?si=WlyTS36bONAyFMDh
+
 
