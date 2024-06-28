@@ -41,3 +41,9 @@ In this directory you will find links to:
 
 - https://youtu.be/L0IB8tpKi-c?feature=shared
 
+## Final robot's direction mechanism and ultrasonic sensors
+- Here we demostrate how the servomotor and the ultrasonic sensors in our robot work in unison
+
+- https://youtube.com/shorts/-ydbWwwqAOM?si=ZDhiF-gVkNM1LRam
+
+
