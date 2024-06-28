@@ -25,7 +25,8 @@ The robot does this cicle 4 times,for it to finish that round, which is the firs
 
 ## Code for the three ultrasonic sensors of the final robot:
 
-- This code is so the three ultrasonic sensors work together in unison.
+- This code is so the three ultrasonic sensors work together in unison. The sensors perceive the distance in cm in this code.
+- This code also works together with the servomotor code.
 
 
 
