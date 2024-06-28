@@ -23,6 +23,10 @@ The robot does this cicle 4 times,for it to finish that round, which is the firs
 
 - You can see this code being used and putted to the test in "Second prototype on the track" (in the videos folder).
 
+## Code for the three ultrasonic sensors of the final robot:
+
+- T
+
 
 
 
