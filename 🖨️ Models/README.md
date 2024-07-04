@@ -2,7 +2,7 @@
 
 In this directory you will find all the information regarding our 3D printed models, designed and printed by us.
 
-### Adapter for the wheels
+## Adapter for the wheels
 
 This model is an adapter so we can join together the dc motor and the lego stick. The model has 2 sides: the first one being a cross so the lego stick fits there perfectly and the second one being a line where the dc motor fits. This 3D printed model is an essential part of our final robot's wheel mechanism, since thanks to this model it works.
 
@@ -14,7 +14,7 @@ This model is an adapter so we can join together the dc motor and the lego stick
 
 ### (you can find the 3D model stl document in this folder)
 
-### Support for pixy with adapter for lego
+## Support for pixy with adapter for lego
 
 This model counts with two pieces which support the pixy like a case, it also counts with two holes at the ends so it can be adapted to the lego pieces which our robot is made with.
 
@@ -22,7 +22,7 @@ This model counts with two pieces which support the pixy like a case, it also co
 
 ### (you can find the 3D model stl document in this folder)
 
-### Blue piece
+## Blue piece
 
 This model is a piece that functions to stop the dc motor from moving so it has a better performance. This model what 4 cm x 2 cm so it would in the space below the robot in the first prototype. 
 
