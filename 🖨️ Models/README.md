@@ -20,6 +20,7 @@ This model counts with two pieces which support the pixy like a case, it also co
 
 <img src="Support for pixy with adapter for lego.jpeg" width="700"> 
 
+### (you can find the 3D model stl document in this folder)
 
 ### Blue piece
 
