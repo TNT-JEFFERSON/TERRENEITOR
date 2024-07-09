@@ -23,7 +23,7 @@ A pseudo code is Here is the pseudo code explained in detailed for each round:
 
 |Our old flowchart diagram|
 |--------------------------|
-|<img src="Old flowchart diagram TNT.jpeg" width="3000">|
+|<img src="Old flowchart diagram TNT.jpeg" width="900">|
 
 |Our new flowchart diagram|
 |-----------|
