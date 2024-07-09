@@ -8,6 +8,11 @@ The software we used for coding and programming our robot, Terreneitor, is _Ardu
 
 <img src="Arduino IDE 2.3.2.png" width="40000">
 
+##  Pseudo code 
+
+Here is the pseudo code explained in detailed
+###jkj
+
 
 
 ## Code for the motors of the second prototype:
