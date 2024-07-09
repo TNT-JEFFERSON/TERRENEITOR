@@ -36,5 +36,6 @@ This model is a piece that functions to stop the dc motor from moving so it has 
 This model counts with two pieces: the first one being red and the second one being green. This pieces help us practice for the second round (obstacle challenge).
 
 <img src="Photo of green and red obstacle.jpeg" width="900"> 
+<img src="Photo of red and green obstacle models.png" width="900"> 
 
 ### (you can find the 3D model stl document in this folder)
