@@ -21,9 +21,13 @@ A pseudo code is Here is the pseudo code explained in detailed for each round:
 5) While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
 6) If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
 
-|Our old flowchart diagram|Our new flowchart diagram|
-|--------------------------|----|
-|<img src="Flowchart diagram TNT.jpeg" width="400">|sddsd|
+|Our old flowchart diagram|
+|--------------------------|
+|<img src="Old flowchart diagram TNT.jpeg" width="3000">|
+
+|Our new flowchart diagram|
+|-----------|
+|<img src="New flowchart diagram TNT.png" width="5000">|
 
 
 ## Code for the motors of the second prototype:
