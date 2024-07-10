@@ -24,7 +24,7 @@ One thing that defines us, TNT, is that unlike others, we _don't_ give up easily
 
 ## Content
 
-- `Vehicle photos`: contains photos of the final robot from different views and angles, and how we build it.
+- `Pictures (Team and vehicle)`: contains photos of the final robot from different views and angles. And photos of us individually and in group.
 - `Prototypes and sketches`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
 - `Code`: contains the code of the prototypes and the final robot.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
@@ -34,7 +34,7 @@ One thing that defines us, TNT, is that unlike others, we _don't_ give up easily
 
 ## Materials and components
 
-What is Terreneitor made of? Terreneitor is made of pieces and blocks from the _MINDSTORMS education EV3_ lego set, while also using electrical components, and arduino components.
+What is Terreneitor made of? Terreneitor is made of pieces and blocks from pieces and lego parts from diverse lego sets we found in our robotics laboratory, while also using "ready to go" electrical components. We also used an Arduino board as our main controller, since this is what we learned in our school.
 
 |THE LEGO PIECES OUR ROBOT USES ARE:|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|                                                  
 |-----------------------------|---------------------|
