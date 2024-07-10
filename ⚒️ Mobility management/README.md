@@ -112,7 +112,7 @@ Now, we will talk about all the information regarding our 3D printed models, des
 
 Its important to mention that we also borrowed a 3D scanner to print some models. This is because in our robotics laboratory we needed to modify some lego pieces, or didn't have enough of them, so we decided to print our own lego pieces.
 
-<img src="3D scanner.heic" width="700"> 
+<img src="3D scanner.heic" width="500"> 
 
 ## Adapter for the wheels
 
