@@ -1,3 +1,24 @@
+# Mobility management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Build
 
 In this directory you will find what our robot is made of: all the lego pieces, arduino/electrical components, and materials used in the final robot.
@@ -51,7 +72,7 @@ In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:
 |-----------------------------------------------------|--------------|
 |1x MicroServo 9g (SG90)|<img src="MicroServo 9g (SG90).jpeg" width="200">|
 |1x Yellow 9V Geared Dc Motor| <img src="Yellow 9V dc motor.jpg" width="200">|
-|1x Gray 5V Dc Motor| <img src="Gray 5V dc motor.jpg" width="200">|
+|1x Gray 6V Dc Motor| <img src="Gray 5V dc motor.jpg" width="200">|
 |1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="200">|
 |2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="200">|
 |A lot of Arduino cables| <img src="Arduino cables.jpg" width="200">|
