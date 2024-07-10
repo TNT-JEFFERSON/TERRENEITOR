@@ -6,6 +6,11 @@ We chose a 6V DC motor, which is one of the most common, but seeing that it did 
 
 For the direction, we had to use a servomotor, it would have been ideal to place another 6V DC motor for this function, however, we would have had to work a lot with the voltage variations to have to make the change between forward and backward, that would require an additional integrated chip which would congest too much work for us on a physical level, therefore we placed a servomotor to work directly with the code which would allow us 90 degree rotations to the right and to the left and This is attached directly to a simple connection shaft and is what gives us mobility to the left and right of our vehicle. 
 
+Here is our scheme of conduction and direction of our robot:
+
+
+<img src="Scheme of conduction and direction.png" width="800">
+
 
 # Build
 
