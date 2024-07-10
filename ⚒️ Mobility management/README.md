@@ -1,22 +1,10 @@
 # Mobility management
 
+We chose a vehicle chassis that was open and that would allow us to have both an Arduino board, a protoboard and a power source connected, which is why it was necessary to create two floors because otherwise the car would be very long and would exceed the measurements provided. We made two floors with simple Lego structures and made some small adaptations to place our DC motor, place our battery and 3D printed our own piece to be able to mount the pixy camera.  
 
+We chose a 6V DC motor, which is one of the most common, but seeing that it did not have enough power, we worked with the “large gear-small gear” principle (to increase the speed of the output the driver gear is larger than the driven gear which is small), which is what you will see in the diagram of the gear box and our propulsion, then with that engine, we simply place gears at the end of it, to double what is the angular speed and the linear speed that is generated on what are our rear wheels. That generates a little instability if we do it with a single gear, therefore we place two gears on each side, not to generate more power, but to generate more stability. We are working with two 5000 mA batteries that are commercially known as “powerbanks” precisely because they give a stable current through a USB cable that will not bend or break and will allow us to constantly power our vehicle. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+For the direction, we had to use a servomotor, it would have been ideal to place another 6V DC motor for this function, however, we would have had to work a lot with the voltage variations to have to make the change between forward and backward, that would require an additional integrated chip which would congest too much work for us on a physical level, therefore we placed a servomotor to work directly with the code which would allow us 90 degree rotations to the right and to the left and This is attached directly to a simple connection shaft and is what gives us mobility to the left and right of our vehicle. 
 
 
 # Build
