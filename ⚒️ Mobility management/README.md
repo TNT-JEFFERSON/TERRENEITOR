@@ -6,7 +6,7 @@ We chose a 6V DC motor, which is one of the most common, but seeing that it did 
 
 For the direction, we had to use a servomotor, it would have been ideal to place another 6V DC motor for this function, however, we would have had to work a lot with the voltage variations to have to make the change between forward and backward, that would require an additional integrated chip which would congest too much work for us on a physical level, therefore we placed a servomotor to work directly with the code which would allow us 90 degree rotations to the right and to the left and This is attached directly to a simple connection shaft and is what gives us mobility to the left and right of our vehicle. 
 
-For the main controller, we are using an Arduino Rev3 Board, this is because as we mentioned in our introduction, we are high schoolers, and in our school we learned how to use this board. And also that the final proyect for our seniors in robotics is the "Smars" proyect, which is about constructing a autonomous robot (of course, this robot does nothing similar to the goals and purposes of this competition, but it inspire and gave motivation for this category)
+For the main controller, we are using an Arduino Rev3 Board, this is because as we mentioned in our introduction, we are high schoolers, and in our school we learned how to use this board. And also that the final proyect for our seniors in robotics is the "Smars" proyect, which is about constructing a autonomous robot (of course, this robot does nothing similar to the goals and purposes of this competition, but it inspire and gave motivation for this category). Not only that, but an Arduino board is easier to learn than other boards and controllers.
 
 Here is our scheme of conduction and direction of our robot:
 
@@ -76,10 +76,10 @@ In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USE
 |1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
 |1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
-Apart from lego pieces and "ready to go" electrical components, we also used our materials, components and pieces like:
+Apart from lego pieces and "ready to go" electrical components, we also used ordinary and our own materials, components and pieces like:
 
 - our own 3D printed models (which you can find in this folder the files, and below the explanation)
-- our own adhesive materials to join things or make them stronger like:
+- ordinary adhesive materials to join things or make them stronger like:
   - silicone
   - blue/black tape
   - zip ties
@@ -92,14 +92,25 @@ Apart from lego pieces and "ready to go" electrical components, we also used our
 |zip ties|<img src="zip ties.jpg" width="200">|
 
 
+## Why did we chose all of these previous materials?
+
+We chose all of these previous materials, components and pieces in our robot because is what we found in our robotics laboratory and school and is also what we are being taught.
+
+Absolutely everything (the diverse lego pieces, the "ready to go" electrical components, and more) were also bought here in our country, Venezuela, except for the pixycam which was imported from abroad.
+
 
 ## Note:
 
 - Mostly eveything we just mentioned is part of our final robot, but for the previous attempts and prototypes we used the same or almost the same materials, pieces, parts and components.
 
+
 # Models
 
-Now, we will talk about all the information regarding our 3D printed models, designed and printed by us.
+Now, we will talk about all the information regarding our 3D printed models, designed and printed by us. 
+
+# 3D Scanner
+
+Its important to mention that we also borrowed a 3D scanner to print some models. This is because in our robotics laboratory we needed to modify some lego pieces, or didn't have enough of them, so we decided to print our own lego pieces.
 
 ## Adapter for the wheels
 
