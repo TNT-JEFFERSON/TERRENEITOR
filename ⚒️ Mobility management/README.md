@@ -9,7 +9,7 @@ For the direction, we had to use a servomotor, it would have been ideal to place
 Here is our scheme of conduction and direction of our robot:
 
 
-<img src="scheme of conduction and direction.pngg" width="800">
+<img src="scheme of conduction and direction.png" width="800">
 
 
 # Build
@@ -57,11 +57,11 @@ You can see all of the lego pieces we used, for a better comprehension, more cle
 
 <img src="Lego pieces.PNG" width="800">
 
-In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
+In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
 1) First, the amount of that especific piece we used on the robot
-2) Second, the name of that arduino or electrical piece/component
+2) Second, the name of that "ready to go" electrical piece/component
 
-|THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|Photo of each:|                                                  
+|THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
 |1x MicroServo 9g (SG90)|<img src="MicroServo 9g (SG90).jpeg" width="200">|
 |1x Yellow 9V Geared Dc Motor| <img src="Yellow 9V dc motor.jpg" width="200">|
@@ -73,15 +73,15 @@ In the chart below titled "THE ARDUINO/ELECTRICAL COMPONENTS OUR ROBOT USES ARE:
 |1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
 |1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
-Apart from lego pieces and arduino/electrical components, we also used our materials, components and pieces like:
+Apart from lego pieces and "ready to go" electrical components, we also used our materials, components and pieces like:
 
-- our own 3D printed models (which you can find in the `models` folder)
+- our own 3D printed models (which you can find in this folder the files, and below the explanation)
 - our own adhesive materials to join things or make them stronger like:
   - silicone
   - blue/black tape
   - zip ties
 
-|THE MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
+|OTHER MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
 |3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200">|
 |silicone| <img src="silicone.jpg" width="200">|
@@ -96,7 +96,7 @@ Apart from lego pieces and arduino/electrical components, we also used our mater
 
 # Models
 
-In this directory, you will also find all the information regarding our 3D printed models, designed and printed by us.
+Now, we will talk about all the information regarding our 3D printed models, designed and printed by us.
 
 ## Adapter for the wheels
 
