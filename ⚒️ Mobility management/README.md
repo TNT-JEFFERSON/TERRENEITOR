@@ -3,14 +3,14 @@
 In this directory you will find what our robot is made of: all the lego pieces, arduino/electrical components, and materials used in the final robot.
 
 What is Terreneitor made of? Terreneitor is made essentially of:
-- Pieces and lego parts from the _MINDSTORMS education EV3_ lego set
+- Pieces and lego parts from diverse lego sets we found in our robotics laboratory
 - While also using electrical components and arduino components
 - And our own parts and materials like personalized 3D printed models, silicone, tape and zip ties
 
 In the chart below titled "THE LEGO PIECES OUR ROBOT USES ARE:", you will find:
 1) First, the amount of that especific piece we used on the robot
 2) Second, the color of that lego piece
-3) Third, the code of that lego piece 
+3) Third, the code of that lego piece
 
 |THE LEGO PIECES OUR ROBOT USES ARE:|                             
 |-----------------------------|
