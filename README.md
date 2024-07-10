@@ -25,7 +25,7 @@ One thing that defines us, TNT, is that unlike others, we _don't_ give up easily
 ## Content
 
 - `Pictures (Team and vehicle)`: contains photos of the final robot from different views and angles. And photos of us individually and in group.
-- `Prototypes and sketches`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
+- `Older versions of our robot`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
 - `Code`: contains the code of the prototypes and the final robot.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
 - `Models`: contains all the 3D printed models we used throught our journey.
