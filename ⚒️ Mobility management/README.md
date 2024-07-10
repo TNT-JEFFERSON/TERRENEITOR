@@ -6,6 +6,8 @@ We chose a 6V DC motor, which is one of the most common, but seeing that it did 
 
 For the direction, we had to use a servomotor, it would have been ideal to place another 6V DC motor for this function, however, we would have had to work a lot with the voltage variations to have to make the change between forward and backward, that would require an additional integrated chip which would congest too much work for us on a physical level, therefore we placed a servomotor to work directly with the code which would allow us 90 degree rotations to the right and to the left and This is attached directly to a simple connection shaft and is what gives us mobility to the left and right of our vehicle. 
 
+For the main controller, we are using an Arduino Rev3 Board, this is because as we mentioned in our introduction, we are high schoolers, and in our school we learned how to use this board. And also that the final proyect for our seniors in robotics is the "Smars" proyect, which is about constructing a autonomous robot (of course, this robot does nothing similar to the goals and purposes of this competition, but it inspire and gave motivation for this category)
+
 Here is our scheme of conduction and direction of our robot:
 
 
@@ -14,12 +16,13 @@ Here is our scheme of conduction and direction of our robot:
 
 # Build
 
-In this directory you will find what our robot is made of: all the lego pieces, arduino/electrical components, and materials used in the final robot.
+Now we will talk about, what our robot is made of: all the lego pieces, "ready to go"electrical components, and materials used in the final robot.
 
 What is Terreneitor made of? Terreneitor is made essentially of:
 - Pieces and lego parts from diverse lego sets we found in our robotics laboratory
-- While also using electrical components and arduino components
+- While also using "ready to go" electrical components  
 - And our own parts and materials like personalized 3D printed models, silicone, tape and zip ties
+- Also, the main controller of our robot is an Arduino board
 
 In the chart below titled "THE LEGO PIECES OUR ROBOT USES ARE:", you will find:
 1) First, the amount of that especific piece we used on the robot
