@@ -112,6 +112,8 @@ Now, we will talk about all the information regarding our 3D printed models, des
 
 Its important to mention that we also borrowed a 3D scanner to print some models. This is because in our robotics laboratory we needed to modify some lego pieces, or didn't have enough of them, so we decided to print our own lego pieces.
 
+<img src="3D scanner.heic" width="700"> 
+
 ## Adapter for the wheels
 
 This model is an adapter so we can join together the dc motor and the lego stick. The model has 2 sides: the first one being a cross so the lego stick fits there perfectly and the second one being a line where the dc motor fits. This 3D printed model is an essential part of our final robot's wheel mechanism, since thanks to this model it works.
