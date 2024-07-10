@@ -1,6 +1,12 @@
-# Code
+# Obstacle management
 
-In this directory you will find all the code we used for our prototypes and the final robot.
+In this directory you will find:
+- the software we used to make our code
+- all the code we used for our prototypes and the final robot
+- our source code with detailed comments
+- our pseudo code
+- all the strategies our robot uses in order to complete the open challenge round and the obstacle challenge round
+- our old and new flowchart diagram 
 
 ## Software
 
@@ -8,9 +14,9 @@ The software we used for coding and programming our robot, Terreneitor, is _Ardu
 
 <img src="Arduino IDE 2.3.2.png" width="40000">
 
-##  Pseudo code 
+##  Pseudo code and strategy
 
-A pseudo code is Here is the pseudo code explained in detailed for each round:
+A pseudo code is a representation of code used to demonstrate the implementation of an algorithm without actually doing so. It often acts as a rough draft of coding projects, and is written in an explainable manner to be understandable by programmers at any knowledge level. Here is our pseudo code and strategy explained in detailed for each round:
 
 ### Round 1:
 
