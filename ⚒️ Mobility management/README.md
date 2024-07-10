@@ -9,7 +9,7 @@ For the direction, we had to use a servomotor, it would have been ideal to place
 Here is our scheme of conduction and direction of our robot:
 
 
-<img src="Scheme of conduction and direction.png" width="800">
+<img src="scheme of conduction and direction.pngg" width="800">
 
 
 # Build
