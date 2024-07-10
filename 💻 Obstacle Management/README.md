@@ -10,13 +10,14 @@ In this directory you will find:
 
 ## Software
 
-The software we used for coding and programming our robot, Terreneitor, is _Arduino IDE _ version: 2.3.2 in MacOS
+The software we used for coding and programming our robot, Terreneitor, is _Arduino Integrated Development Environment (IDE)  _ application version: 2.3.2 in MacOS. Arduino uses a variant of the C++ programming language. The Arduino Integrated Development Environment or Arduino Software (IDE)  contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino hardware to upload programs and communicate with them. We chose using this software not only because of its simplicity but because it what we learned in our school.
+
 
 <img src="Arduino IDE 2.3.2.png" width="40000">
 
-##  Pseudo code and strategy
+##  Pseudocode and strategy
 
-A pseudo code is a representation of code used to demonstrate the implementation of an algorithm without actually doing so. It often acts as a rough draft of coding projects, and is written in an explainable manner to be understandable by programmers at any knowledge level. Meanwhile, a strategy, in this case, is our plan to achieve our goals during the challenges and rounds of the WRO 2024 future engineers competition. Here is our pseudo code and strategy explained in detailed for each round:
+A pseudocode is a representation of code used to demonstrate the implementation of an algorithm without actually doing so. It often acts as a rough draft of coding projects, and is written in an explainable manner to be understandable by programmers at any knowledge level. Meanwhile, a strategy, in this case, is our plan to achieve our goals during the challenges and rounds of the WRO 2024 future engineers competition. Here is our pseudo code and strategy explained in detailed for each round:
 
 
 ### Round 1:
@@ -43,7 +44,7 @@ A pseudo code is a representation of code used to demonstrate the implementation
 
 ### Round 3:
 
-*In this round, the robot works the same the only step that changes in the final step in which the car has to park inside a magenta parking lot.
+** In this round, the robot works the same the only step that changes in the final step in which the car has to park inside a magenta parking lot. **
 
 -  The dc motors starts and the car begins to go forward.
 -  It continues going straight forward until the pixycam detects an orange or blue line _or_ a green or red obstacle in the track.
@@ -53,8 +54,11 @@ A pseudo code is a representation of code used to demonstrate the implementation
 -  If the obstacle it sees is green, it will turn to the left.
 -  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
 -  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
--  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going until the 3 laps are completed and the round/challenge ends.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it searches for the magenta parking lot with the pixycam and  parks inside it and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going until the 3 laps are completed and it parks inside it and the round/challenge ends.
+
+In order to explain all of the above better, we designed a flowchart diagram, a visual representation that depicts our process, system, computer algorithm, and a brief summary of how our code of the robot works on the track. During our journey we created two flowcharts as you can see below. The difference between the two diagrams is that the old one wasn't a good flowchart and didn't completely follow all the rules of a flowchart diagram and didn't explained correctly how our code and process works, on the other hand, our new flowchart diagram, does follow all the rules and conditions of a new flowchart diagram and explains correctly how our code and process works.
  
+(both diagrams were created entirely by us, TNT, using the smartdraw website: https://www.smartdraw.com/flowchart/flowchart-maker.htm)
 
 
 |Our old flowchart diagram|
@@ -64,6 +68,11 @@ A pseudo code is a representation of code used to demonstrate the implementation
 |Our new flowchart diagram|
 |-----------|
 |<img src="New flowchart diagram TNT..png" width="5000">|
+
+
+In this directory we uploaded all the codes we used both for our prototytpes and the final robot. All of this source codes contain detailed comments, so make sure to check them thoroughly!
+
+Below you have a brief summary, pseudocode and strategies used in each indivual file and code:
 
 
 ## Code for the motors of the second prototype:
