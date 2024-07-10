@@ -16,16 +16,32 @@ The software we used for coding and programming our robot, Terreneitor, is _Ardu
 
 ##  Pseudo code and strategy
 
-A pseudo code is a representation of code used to demonstrate the implementation of an algorithm without actually doing so. It often acts as a rough draft of coding projects, and is written in an explainable manner to be understandable by programmers at any knowledge level. Here is our pseudo code and strategy explained in detailed for each round:
+A pseudo code is a representation of code used to demonstrate the implementation of an algorithm without actually doing so. It often acts as a rough draft of coding projects, and is written in an explainable manner to be understandable by programmers at any knowledge level. Meanwhile, a strategy, in this case, is our plan to achieve our goals during the challenges and rounds of the WRO 2024 future engineers competition. Here is our pseudo code and strategy explained in detailed for each round:
+
 
 ### Round 1:
 
-1) The dc motors starts and the car begins to go forward.
-2) It continues going straight forward until the pixycam detects an orange or blue line in the track.
-3) If the line it sees is orange, it will turn to the right.
-4) If the line it sees is blue, it will turn to the left.
-5) While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
-6) If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
+-  The dc motors starts and the car begins to go forward.
+-  It continues going straight forward until the pixycam detects an orange or blue line in the track.
+-  If the line it sees is orange, it will turn to the right.
+-  If the line it sees is blue, it will turn to the left.
+-  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
+-  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going.
+
+### Round 2:
+
+-  The dc motors starts and the car begins to go forward.
+-  It continues going straight forward until the pixycam detects an orange or blue line _or_ a green or red obstacle in the track.
+-  If the line it sees is orange, it will turn to the right.
+-  If the line it sees is blue, it will turn to the left.
+-  If the obstacle it sees is red, it will turn to the right.
+-  If the obstacle it sees is green, it will turn to the left.
+-  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
+-  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going.
+ 
+
 
 |Our old flowchart diagram|
 |--------------------------|
