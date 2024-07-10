@@ -27,7 +27,7 @@ A pseudo code is a representation of code used to demonstrate the implementation
 -  If the line it sees is blue, it will turn to the left.
 -  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
 -  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
--  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going until the 3 laps are completed and the round/challenge ends.
 
 ### Round 2:
 
@@ -39,7 +39,21 @@ A pseudo code is a representation of code used to demonstrate the implementation
 -  If the obstacle it sees is green, it will turn to the left.
 -  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
 -  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
--  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going until the 3 laps are completed and the round/challenge ends.
+
+### Round 3:
+
+*In this round, the robot works the same the only step that changes in the final step in which the car has to park inside a magenta parking lot.
+
+-  The dc motors starts and the car begins to go forward.
+-  It continues going straight forward until the pixycam detects an orange or blue line _or_ a green or red obstacle in the track.
+-  If the line it sees is orange, it will turn to the right.
+-  If the line it sees is blue, it will turn to the left.
+-  If the obstacle it sees is red, it will turn to the right.
+-  If the obstacle it sees is green, it will turn to the left.
+-  While the pixycam is working, the ultrasonic sensors in our robot are working too. These ultrasonic sensors help us know the distance between our robot and the walls in the track.
+-  If the left wall is closer to the robot than the right wall, it turns to the right side, if not, then the right wall is closer to the robot than the left wall, it turns to the left side.
+-  After the robot sees the orange line and/or blue line and turns 12 times (makes 3 laps) it stops where it started and the round ends, if it doesn't sees the orange line and/or blue line and turns 12 times (makes 3 laps) it constinues going until the 3 laps are completed and the round/challenge ends.
  
 
 
@@ -49,7 +63,7 @@ A pseudo code is a representation of code used to demonstrate the implementation
 
 |Our new flowchart diagram|
 |-----------|
-|<img src="New flowchart diagram TNT.png" width="5000">|
+|<img src="New flowchart diagram TNT..png" width="5000">|
 
 
 ## Code for the motors of the second prototype:
