@@ -62,6 +62,13 @@ You can see all of the lego pieces we used, for a better comprehension, more cle
 
 <img src="Lego pieces.PNG" width="800">
 
+Here is a step-by-step guide construction of the lego structure of our robot:
+
+(we made this instruction guide using the _BrickLink_ app)
+
+<img src="robot.pdf" width="800">
+
+
 In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
 1) First, the amount of that especific piece we used on the robot
 2) Second, the name of that "ready to go" electrical piece/component
