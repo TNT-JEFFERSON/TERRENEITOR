@@ -16,6 +16,9 @@ We chose to have ultrasonic sensors in our robot because since they detect the d
 
 As you can see, the sensors are a very important part in the robot and eventhough they consumed a lot of power (because we have three of them) it is super worth it. 
 
-Of course, for pracmatiqueness and better efficiency, the sensors and the power sources are not connected directly to the our main controller, the Arduino Rev3 Board, instead, they are connected to a circuit which then connects to the board. For you to know what our circuit looks like and how it works we made a wiring diagram that includes all aspects of professional wiring diagrams, for a better comprehension.
+Of course, for pracmatiqueness and better efficiency, the sensors and the power sources are not connected directly to the our main controller, the Arduino Rev3 Board, instead, they are connected to a circuit which then connects to the board. For you to know what our circuit looks like and how it works we made a wiring diagram that includes all aspects of professional wiring diagrams, for a better comprehension:
+
+<img src="Wiring diagram.png" width="6000000">
+
 
 <img src="BOM (Bill Of Materials).png" width="6000000">
