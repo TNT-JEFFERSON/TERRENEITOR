@@ -18,7 +18,7 @@ As you can see, the sensors are a very important part in the robot and eventhoug
 
 Of course, for pracmatiqueness and better efficiency, the sensors and the power sources are not connected directly to the our main controller, the Arduino Rev3 Board, instead, they are connected to a circuit which then connects to the board. For you to know what our circuit looks like and how it works we made a wiring diagram that includes all aspects of professional wiring diagrams, for a better comprehension:
 
-<img src="Wiring diagram.png" width="6000000">
+<img src="Wiring diagram TNT.png" width="6000000">
 
 The sensors and the power sources are not the only components and pieces we used in our robot, and are not the only important and expensive parts we used, so we also elaborated a Bill Of Materials (BOM). Below you can see it:
 
