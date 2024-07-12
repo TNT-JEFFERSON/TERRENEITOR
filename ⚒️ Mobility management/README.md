@@ -56,13 +56,13 @@ In the chart below titled "THE LEGO PIECES OUR ROBOT USES ARE:", you will find:
 |4x Grey 56908|
 |4x Black 41897|
 
-You can see all of the lego pieces we used, for a better comprehension, more clearly and neatly in this diagram:
+You can see all of the lego pieces we used, for a better comprehension, more clearly and neatly in this materials chart:
 
 (this materials chart is made by us using the official lego _BrickLink_ app)
 
 <img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/2ef247ca32e48eab3df67cf346801934007bb733/%E2%9A%92%EF%B8%8F%20Mobility%20management/%E2%9A%99%EF%B8%8F%20Lego%20structure%3A%20construction%20step-by-step%20of%20our%20final%20robot/Lego%20pieces%20our%20robot%20uses.png" width="800">
 
-To know about how we build the lego structure step-by-step check the "
+To know about how we build the lego structure step-by-step check the `⚙️ Lego structure: construction step-by-step of our final robot` directory which you will find in this folder.
 
 
 In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
