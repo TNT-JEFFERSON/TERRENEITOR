@@ -4,7 +4,7 @@ We chose a vehicle chassis that was open and that would allow us to have both an
 
 We chose a 3V DC motor, which is one of the most common, but seeing that it did not have enough power, we worked with the “large gear-small gear” principle (to increase the speed of the output the driver gear is larger than the driven gear which is small (this will increase the speed of the output but decrease the “torque”)), which is what you will see in the diagram of the gear box and our propulsion, then with that engine, we simply place gears at the end of it, to double what is the angular speed and the linear speed that is generated on what are our rear wheels. That generates a little instability if we do it with a single gear, therefore we place two gears on each side, not to generate more power, but to generate more stability. 
 
-We are working with 5000 mA (9V) batteries that are commercially known as “powerbanks” precisely because they give a stable current through a USB cable that will not bend or break and will allow us to constantly power our vehicle (we have two to use but we don't use them at the same time). 
+We are working with 5000 mA batteries that are commercially known as “powerbanks” precisely because they give a stable current through a USB cable that will not bend or break and will allow us to constantly power our vehicle, we also use four rechargable batteries of around 2300-1300 mA each, to power our robot. (to see this explained in more detail check the `power and sense  management` folder)
 
 For the direction, we had to use a servomotor, it would have been ideal to place another 3V DC motor for this function, however, we would have had to work a lot with the voltage variations to have to make the change between forward and backward, that would require an additional integrated chip which would congest too much work for us on a physical level, therefore we placed a servomotor to work directly with the code which would allow us 90 degree rotations to the right and to the left and This is attached directly to a simple connection shaft and is what gives us mobility to the left and right of our vehicle. 
 
@@ -77,7 +77,7 @@ In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USE
 |1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="200">|
 |2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="200">|
 |A lot of Arduino cables| <img src="Arduino cables.jpg" width="200">|
-|2x Bateries|<img src="9V battery.jpeg" width="200">  |
+|2x Bateries|<img src="batteries.jpeg" width="200">  |
 |1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
 |1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
@@ -91,7 +91,7 @@ Apart from lego pieces and "ready to go" electrical components, we also used ord
 
 |OTHER MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
-|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200"><img src="Photo of gears.jpeg" width="200"><img src="Photo of beam frames.jpeg" width="200"><img src="Photo of beam.jpeg" width="200"><img src="Photo of green and red obstacle.jpeg" width="200">|
+|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200"><img src="Photo of gears.jpeg" width="200"><img src="Photo of beam frames.jpeg" width="200"><img src="Photo of beam.jpeg" width="200"><img src="Photo of green and red obstacle.jpeg" width="200"><img src="Support for pixy with adapter for lego.jpeg" width="400">|
 |silicone| <img src="silicone.jpg" width="200">|
 |black/blue tape| <img src="black tape.jpg" width="200"> <img src="blue tape.png.jpg" width="200">|
 |zip ties|<img src="zip ties.jpg" width="200">|
@@ -167,7 +167,7 @@ This model counts with two pieces: the first one being red and the second one be
 
 This model was made with help of the 3D scanner. This model was created because we didn't had enough beam frames at our robotics laboratory, so we decided to 3D print our own.
 
-<img src="Photo of bean frames.jpeg" width="900"> 
+<img src="Photo of beam frames.jpeg" width="900"> 
 
 ### (you can find the 3D model stl document in this folder)
 
