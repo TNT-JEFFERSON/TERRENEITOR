@@ -4,7 +4,7 @@ In this directory you will find the photos of:
 - each individual member of the team
 - a photo of all the team members together
 
-TNT counts with three members. We are:
+Our team counts with three members. We are:
 
 1) Raffaella Salama Arias
 
@@ -17,5 +17,7 @@ TNT counts with three members. We are:
 3) Nicola Pasquale Simone Perdomo
 
 <img src="Photo of Nicola Simone.jpeg" width="400">
+
+### And together we are TNT!
 
 <img src="Photo of the team.jpeg" width="400">
