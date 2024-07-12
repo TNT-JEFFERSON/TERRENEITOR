@@ -157,4 +157,30 @@ This model counts with two pieces: the first one being red and the second one be
 
 ### (you can find the 3D model stl document in this folder)
 
+## Beam frames 
+
+This model was made with help of the 3D scanner. This model was created because we didn't had enough beam frames at our robotics laboratory, so we decided to 3D print our own.
+
+<img src="Photo of bean frames.jpeg" width="900"> 
+
+### (you can find the 3D model stl document in this folder)
+
+## Gears
+
+This model was made with help of the 3D scanner. This model was created because we didn't had enough gears like this at our robotics laboratory, so we decided to 3D print our own. We also modified them to be a little bigger and therefore, function better. It's important to mention that gears are a fundamental part of our wheels mechanism, as you read before.
+
+<img src="Photo of gears.jpeg" width="900">
+
+### (you can find the 3D model stl document in this folder)
+
+## Beam
+
+This model was also made with help of the 3D scanner. This model was created because we didn't had enough beams like this at our robotics laboratory, so we decided to 3D print our own. We also modified them to our needs (we made it shorter). You can see this mean thourghout a lot of our robot's composition.
+
+<img src="Photo of beam.jpeg" width="900">
+
+
+### (you can find the 3D model stl document in this folder)
+
+# As a final note, it is important to mention that, as you have read, we build Terreneitor from cero, meaning we did _`not`_ use any Standard Construction Kit "Off the shelf" to build our robot. We designed and builded our own original and unique robot, with our own diverse lego pieces and electrical components.
 
