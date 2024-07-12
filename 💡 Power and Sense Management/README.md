@@ -9,3 +9,5 @@ In this directory we will talk about:
 - Bill Of Materials (BOM)
 
 Terreneitor uses has two power sources: The first one being a 5000 mA powerbank which provides power to the Arduino Rev3 Board, which is the main controller of our robot. The second one are four rechargable batteries of around 2300-1300 mA each and 1.2V
+
+<img src="Bill Of Materials.png" width="900">
