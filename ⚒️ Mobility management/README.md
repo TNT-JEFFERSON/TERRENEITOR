@@ -77,7 +77,7 @@ In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USE
 |1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="200">|
 |2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="200">|
 |A lot of Arduino cables| <img src="Arduino cables.jpg" width="200">|
-|2x Bateries|<img src="Batteries.jpg" width="200">  |
+|2x Bateries|<img src="9V battery.jpeg" width="200">  |
 |1x Arduino Uno Rev3 Board|<img src="Arduino Uno Rev3 Board.jpg.jpg" width="200">|
 |1x Protoboard MB-102 830 pins|<img src="Protoboard.jpg" width="200">|
 
@@ -118,6 +118,12 @@ Now, we will talk about all the information regarding our 3D printed models, des
 Its important to mention that we also borrowed a 3D scanner to print some models. This is because in our robotics laboratory we needed to modify some lego pieces, or didn't have enough of them, so we decided to print our own lego pieces.
 
 <img src="3D scanner.heic" width="500"> 
+
+# Our 3D printers
+
+These are the 3D printers we use at our school to print our 3D models, which are a fundametal part in the creation of our robot
+
+<img src="3D printers.jpeg" width="500"> 
 
 ## Adapter for the wheels
 
@@ -182,5 +188,5 @@ This model was also made with help of the 3D scanner. This model was created bec
 
 ### (you can find the 3D model stl document in this folder)
 
-# As a final note, it is important to mention that, as you have read, we build Terreneitor from cero, meaning we did _`not`_ use any Standard Construction Kit "Off the shelf" to build our robot. We designed and builded our own original and unique robot, with our own diverse lego pieces and electrical components.
+## As a final note, it is important to mention that, as you have read, we build Terreneitor from cero, meaning we did _`not`_ use any Standard Construction Kit "Off the shelf" to build our robot. We designed and builded our own original and unique robot, with our own diverse lego pieces and electrical components.
 
