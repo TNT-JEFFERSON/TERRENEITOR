@@ -20,5 +20,6 @@ Of course, for pracmatiqueness and better efficiency, the sensors and the power 
 
 <img src="Wiring diagram.png" width="6000000">
 
+The sensors and the power sources are not the only components and pieces we used in our robot, and are not the only important and expensive parts we used, so we also elaborated a Bill Of Materials (BOM). Below you can see it:
 
 <img src="BOM (Bill Of Materials).png" width="6000000">
