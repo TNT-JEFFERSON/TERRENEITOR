@@ -73,7 +73,7 @@ In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USE
 |-----------------------------------------------------|--------------|
 |1x MicroServo 9g (SG90)|<img src="MicroServo 9g (SG90).jpeg" width="200">|
 |1x Yellow 9V Geared Dc Motor| <img src="Yellow 9V dc motor.jpg" width="200">|
-|1x Gray 6V Dc Motor| <img src="Gray 5V dc motor.jpg" width="200">|
+|1x Gray 3V Dc Motor| <img src="Gray 5V dc motor.jpg" width="200">|
 |1x Pixycam 2.1|<img src="PixyCam 2.1.jpeg" width="200">|
 |2x Ultrasonic sensors|<img src="ultrasonic sensor.png" width="200">|
 |A lot of Arduino cables| <img src="Arduino cables.jpg" width="200">|
@@ -91,7 +91,7 @@ Apart from lego pieces and "ready to go" electrical components, we also used ord
 
 |OTHER MATERIALS OUR ROBOT USES ARE:|Photo of each:|                                                  
 |-----------------------------------------------------|--------------|
-|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200">|
+|3D printed models|<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/c9e13c2aa0a8e80e8ffdd8f5e4cbbee9d7e87a04/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20the%20adapter%202.png" width="200"><img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/4a3f4b0863ad067fb2bd6ca101b112886b94527b/%F0%9F%96%A8%EF%B8%8F%20Models/Photo%20of%20blue%20piece%201.jpeg" width="200"><img src="Photo of gears.jpeg" width="200"><img src="Photo of beam frames.jpeg" width="200"><img src="Photo of beam.jpeg" width="200"><img src="Photo of green and red obstacle.jpeg" width="200">|
 |silicone| <img src="silicone.jpg" width="200">|
 |black/blue tape| <img src="black tape.jpg" width="200"> <img src="blue tape.png.jpg" width="200">|
 |zip ties|<img src="zip ties.jpg" width="200">|
