@@ -58,15 +58,11 @@ In the chart below titled "THE LEGO PIECES OUR ROBOT USES ARE:", you will find:
 
 You can see all of the lego pieces we used, for a better comprehension, more clearly and neatly in this diagram:
 
-(this diagram is made by us using the official lego _BrickLink_ app)
+(this materials chart is made by us using the official lego _BrickLink_ app)
 
-<img src="Lego pieces our robot uses.PNG" width="800">
+<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/2ef247ca32e48eab3df67cf346801934007bb733/%E2%9A%92%EF%B8%8F%20Mobility%20management/%E2%9A%99%EF%B8%8F%20Lego%20structure%3A%20construction%20step-by-step%20of%20our%20final%20robot/Lego%20pieces%20our%20robot%20uses.png" width="800">
 
-Here is a step-by-step guide construction of the lego structure of our robot:
-
-(we made this instruction guide using the _BrickLink_ app)
-
-<img src="robot.pdf" width="800">
+To know about how we build the lego structure step-by-step check the "
 
 
 In the chart below titled "THE "READY TO GO" ELECTRICAL COMPONENTS OUR ROBOT USES ARE:", you will find:
