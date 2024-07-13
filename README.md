@@ -28,8 +28,8 @@ One thing that defines us, TNT, is that unlike others, we _don't_ give up easily
 - `Older versions of our final robot`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
 - `Obstacle Management`: contains the source code of the prototypes and the final robot with detailed comments, strategies, flowchart diagrams and pseudocode.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
-- `Models`: contains all the 3D printed models we used throught our journey.
-- `Build`: contains all the lego pieces, arduino/electrical components, and materials used in the final robot.
+- `Mobility management`: contains all the 3D printed models we used throught our journey, all the lego pieces, electrical components, and materials used in the final robot, a brief discussion regarding the vehicle chassis design/selection as well as the mounting of all components to the vehicle chassis/structure, and more.
+- `Power and sense management`: contains power and sense management about the power source for the vehicle as well as the sensors required to provide the vehicle with information to negotiate the different challenges, the reasons for selecting various sensors and how they are being used on the vehicle together and a wiring diagram with BOM that includes all aspects of professional wiring diagrams.
 
 
 ## Materials and components
@@ -63,13 +63,13 @@ What is Terreneitor made of? Terreneitor is made of pieces and blocks from piece
 
 <img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/d87a6d42224ffb9b169e28f270920a6aa4088ae4/%E2%9A%92%EF%B8%8F%20Mobility%20management/%E2%9A%99%EF%B8%8F%20Lego%20structure%3A%20construction%20step-by-step%20of%20our%20final%20robot/Lego%20pieces%20our%20robot%20uses.png" width="800">
 
-### To know the complete list of all the materials used visit the `build` folder.
+### To know the complete list of all the materials used visit the `Mobility management` folder.
 
 ## Our journey, progress and prototypes
 
 In the beginning of our journey, we had plenty of various and diverse ideas on how to build our robot but eventually it all worked out. When we first started, we did messy sketches and tried a lot of ideas. Here are some of our first sketches and ideas for Terreneitor:
 
-<img src="🏎️ Prototypes and sketches/First sketches 1.jpeg" width="500"><img src="🏎️ Prototypes and sketches/First sketches 2.jpeg" width="300">
+<img src="🏎️ Older versions of our final robot/First sketches 1.jpeg" width="500"><img src="🏎️ Older versions of our final robot/First sketches 2.jpeg" width="300">
 
 Eventually, with these sketches in mind, we started working on the physical robot. We had high hopes for our first prototype, and the more we worked on it, the more our hopes grew. But, there was a problem, a big one...if you see "First prototype wheels mechanism" (you can find in the `videos` folder) you might think, like us, that it would be super fast on the ground, however when we finally were ready to put it to the test... it failed. The wheels mechanism of this prototype did not work on the ground. We tried to change many things and pieces in this prototype to see if it would help, but all our work was in vain, the mechanism still did not work on the floor. Eventually, we find out the cause... the mechanism didn't work because the dc motor that we were using, eventhogh it was fast, it didn't have enough strength and power to move the gear mechanism (the robot was also really tall and heavy causing the dc motor to be carrying this weight all the time, since it was located on the lower part of it. Let's not forget to comment that, also the mechanism for the direction of the robot did not work out too because the motor couldn't move the mechanism (for a better visual understanding visit the `videos` folder), although that was a minor problem compare to the wheel mechanism problem.
 
@@ -95,7 +95,7 @@ As you can realize by now we had plenty of problems since the beginning, let's g
 - Slow, due to the two previous problems
 - Didn't direct the robot correctly
 
-### *(to learn more about our sketches and prototypes go to the `prototypes and sketches` folder)*
+### *(to learn more about our sketches and prototypes go to the `Older versions of our final robot` folder)*
 
 ### Final robot
 
