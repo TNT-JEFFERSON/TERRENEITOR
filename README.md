@@ -26,7 +26,7 @@ One thing that defines us, TNT, is that unlike others, we _don't_ give up easily
 
 - `Pictures (Team and vehicle)`: contains photos of the final robot from different views and angles. And photos of us individually and in group.
 - `Older versions of our final robot`: contains photos of our previous ideas and prototypes that eventually lead to the final design and robot, Terreneitor.
-- `Obstacle Management`: contains the source code of the prototypes and the final robot with detailed comments, strategies, flowchart diagrams and pseudocode.
+- `Obstacle management`: contains the source code of the prototypes and the final robot with detailed comments, strategies, flowchart diagrams and pseudocode.
 - `Videos`: contains links to our Youtube videos which show how our previous attempts turn out and function, and also how the final robot completes the challenges and more. 
 - `Mobility management`: contains all the 3D printed models we used throught our journey, all the lego pieces, electrical components, and materials used in the final robot, a brief discussion regarding the vehicle chassis design/selection as well as the mounting of all components to the vehicle chassis/structure, and more.
 - `Power and sense management`: contains power and sense management about the power source for the vehicle as well as the sensors required to provide the vehicle with information to negotiate the different challenges, the reasons for selecting various sensors and how they are being used on the vehicle together and a wiring diagram with BOM that includes all aspects of professional wiring diagrams.
