@@ -61,7 +61,7 @@ What is Terreneitor made of? Terreneitor is made of pieces and blocks from piece
 |4x Grey 56908|
 |4x Black 41897|
 
-<img src="https://github.com/TNT-JEFFERSON/TERRENEITOR/blob/d87a6d42224ffb9b169e28f270920a6aa4088ae4/%E2%9A%92%EF%B8%8F%20Mobility%20management/%E2%9A%99%EF%B8%8F%20Lego%20structure%3A%20construction%20step-by-step%20of%20our%20final%20robot/Lego%20pieces%20our%20robot%20uses.png" width="800">
+<img src="⚒️ Mobility management/⚙️ Lego structure: construction step-by-step of our final robot/Lego pieces our robot uses.png" width="800">
 
 ### To know the complete list of all the materials used visit the `Mobility management` folder.
 
