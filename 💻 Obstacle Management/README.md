@@ -74,11 +74,11 @@ In this directory we uploaded all the codes we used both for our prototytpes and
 
 Below you have a brief summary, pseudocode and strategies used in each indivual file and code:
 
-## Code for first round
+## Code for first round (Open challenge round)
 
 This code works for the first round, if you want to know what it is about check the file in the folder that's named "First round.ino", since the detailed comments will tell you what it is about.
 
-## Code for second round
+## Code for second round (Obstacle challenge round)
 
 This code works for the second round, if you want to know what it is about check the file in the folder that's named "Second round.ino", since the detailed comments will tell you what it is about.
 
