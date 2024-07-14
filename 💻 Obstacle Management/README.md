@@ -74,6 +74,16 @@ In this directory we uploaded all the codes we used both for our prototytpes and
 
 Below you have a brief summary, pseudocode and strategies used in each indivual file and code:
 
+## Code for first round
+
+This code works for the first round, if you want to know what it is about check the file in the folder that's named "First round.ino", since the detailed comments will tell you what it is about.
+
+## Code for second round
+
+This code works for the second round, if you want to know what it is about check the file in the folder that's named "Second round.ino", since the detailed comments will tell you what it is about.
+
+## Below you'll see some _tests_ codes we did before:
+
 
 ## Code for the motors of the second prototype:
 
@@ -88,12 +98,12 @@ The robot does this cicle 4 times,for it to finish that round, which is the firs
 
 - You can see this code being used and putted to the test in "Second prototype on the track" (in the videos folder).
 
-## Code for the three ultrasonic sensors of the final robot:
+## Code for the three ultrasonic sensors:
 
 - This code is so the three ultrasonic sensors work together in unison. The sensors perceive the distance in cm in this code.
 - This code also works together with the servomotor code.
 
-## Code for the servomotor and ultrasonic sensors of the final robot:
+## Code for the servomotor and ultrasonic sensors:
 
 This code makes the direction mechanism and the three ultrasonic sensors in our robot work together
 
